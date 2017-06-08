@@ -1,0 +1,6 @@
+Begin   
+    Var k : Integer;
+    Var i : Integer;
+
+    If a or b then a = a * b;
+End
